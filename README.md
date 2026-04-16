@@ -4,7 +4,7 @@ A PyTorch framework for robust CIFAR-10 classification, combining ensemble knowl
 
 **Robust CIFAR-10 Classification Pipeline (Research from Dec-2025)**
 
-- GitHub Repository: [Insert Link Here]
+- GitHub Repository: https://github.com/PranavAshtankar/Ensemble-Distillation-Based-Adversarial-Training-for-Robust-CIFAR-10-Classification-
 
 ---
 
