@@ -1,0 +1,7 @@
+               Model  Clean   FGSM    PGD   WCRA     MRA    PRG
+0         No Defense  35.10  28.35  32.20  28.35  30.275   0.00
+1      Preprocessing  17.90  15.15  17.30  15.15  16.225 -14.90
+2   Gradient Masking  37.30  27.55  33.05  27.55  30.300   0.85
+3          Detection  36.55  29.25  32.35  29.25  30.800   0.15
+4  FGSM Adv Training  36.15  29.55  32.80  29.55  31.175   0.60
+5              EDAAT  39.60  30.70  35.35  30.70  33.025   3.15

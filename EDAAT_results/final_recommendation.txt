@@ -1,0 +1,18 @@
+
+FINAL CONCLUSION
+================
+Best Clean Accuracy  : EDAAT
+Best FGSM Robustness : EDAAT
+Best PGD Robustness  : EDAAT
+Best WCRA            : EDAAT
+Best MRA             : EDAAT
+Best PRG Gain        : EDAAT
+
+Overall Best Defense : EDAAT
+
+Interpretation:
+EDAAT achieves the most balanced performance across
+clean accuracy and adversarial robustness metrics.
+It consistently improves PGD robustness while
+maintaining competitive clean accuracy, making it
+the most reliable defense overall.
